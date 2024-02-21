@@ -1,0 +1,14 @@
+.nav-item:hover {
+   
+    background-color: #338f42;
+    color: #fff;
+    padding: 5px 5px;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+.nav-search{
+    margin-left: 320px;
+    background: white;
+    border-radius: 20px;
+}
